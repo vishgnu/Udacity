@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53CAC3C5-BBC8-430C-A6EF-7A598155108E}"
+	ProjectSection(SolutionItems) = preProject
+		web\index.html = web\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{23BB71FA-34C1-46C0-B776-7405C2E3A45C}"
+	ProjectSection(SolutionItems) = preProject
+		web\css\style.css = web\css\style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23BB71FA-34C1-46C0-B776-7405C2E3A45C} = {53CAC3C5-BBC8-430C-A6EF-7A598155108E}
+	EndGlobalSection
+EndGlobal
